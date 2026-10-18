@@ -1,4 +1,4 @@
-# Algorithmic Thinking Club
+# BLHS CS Club
 
 The computer science club at Bonney Lake High School. We build software the school actually
 uses, and we compete.
@@ -29,10 +29,10 @@ Three repositories make it:
 Our own site. It carries what we compete in, what we have built and who is in the club, and it
 is where a new member signs up. Next.js and TypeScript, on Vercel.
 
-![The Algorithmic Thinking Club website, a pixel art computer lab](screenshots/atc-site.png)
+![The BLHS CS Club website, a pixel art computer lab](screenshots/atc-site.png)
 
 Visit it at [atc-blhs.vercel.app](https://atc-blhs.vercel.app), and the code is in
-[atc-blhs-website](https://github.com/Algorithmic-Thinking-Club/atc-blhs-website).
+[blhs-cs-club-website](https://github.com/Algorithmic-Thinking-Club/blhs-cs-club-website).
 
 ## WiseGraph
 
