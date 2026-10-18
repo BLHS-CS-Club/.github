@@ -15,10 +15,10 @@ Play it at [blhs-island-explorer.vercel.app](https://blhs-island-explorer.vercel
 
 Three repositories make it:
 
-- **[BLHS-Vine](https://github.com/Algorithmic-Thinking-Club/BLHS-Vine)** is the engine: the
+- **[BLHS-Vine](https://github.com/BLHS-CS-Club/BLHS-Vine)** is the engine: the
   world, the character, the sailing, the year, and a Python vocabulary that islands are
   written in.
-- **[BLHS-Island-Explorer](https://github.com/Algorithmic-Thinking-Club/BLHS-Island-Explorer)**
+- **[BLHS-Island-Explorer](https://github.com/BLHS-CS-Club/BLHS-Island-Explorer)**
   is where members build islands. Three files in Python, one row to register it, and it is in
   the game. Start with the skeleton and the README.
 - **[MAPVIS](https://github.com/ashwath-polali/MAPVIS)** is the map platform: a painting becomes
@@ -32,7 +32,7 @@ is where a new member signs up. Next.js and TypeScript, on Vercel.
 ![The BLHS CS Club website, a pixel art computer lab](screenshots/atc-site.png)
 
 Visit it at [blhs-cs-club.vercel.app](https://blhs-cs-club.vercel.app), and the code is in
-[blhs-cs-club-website](https://github.com/Algorithmic-Thinking-Club/blhs-cs-club-website).
+[blhs-cs-club-website](https://github.com/BLHS-CS-Club/blhs-cs-club-website).
 
 ## WiseGraph
 
