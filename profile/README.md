@@ -31,7 +31,7 @@ is where a new member signs up. Next.js and TypeScript, on Vercel.
 
 ![The BLHS CS Club website, a pixel art computer lab](screenshots/atc-site.png)
 
-Visit it at [atc-blhs.vercel.app](https://atc-blhs.vercel.app), and the code is in
+Visit it at [blhs-cs-club.vercel.app](https://blhs-cs-club.vercel.app), and the code is in
 [blhs-cs-club-website](https://github.com/Algorithmic-Thinking-Club/blhs-cs-club-website).
 
 ## WiseGraph
